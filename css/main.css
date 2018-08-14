@@ -9,7 +9,7 @@ nav ul, footer ul {
       font-weight: bold;
 }
 nav ul li, footer ul li {
-      display: inline;
+      dispaly: inline;
       margin-right:20px;
 }
 a {
@@ -20,7 +20,7 @@ a:hover {
         text-decoration: underline;
 }
 h1 {
-      font-size:3em;
+      font-size: 3em;
       font-family:'Helvertica', 'Arial', 'Sans-Serif';
 }
 p {
